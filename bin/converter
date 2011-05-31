@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+# -*- mode: ruby -*-
+
+$:.unshift(File.expand_path('../../lib', __FILE__))
+
+require 'rubygems'
+require 'bundler/setup'
+require 'thor'
+require 'converter.rb'
+
+Converter.start
+
+# vim: syntax=ruby
