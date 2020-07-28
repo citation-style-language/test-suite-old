@@ -21,7 +21,7 @@ GEM
       json (>= 1.4.6)
     gherkin (2.4.6-java)
       json (>= 1.4.6)
-    json (1.5.3)
+    json (>= 2.3.0)
     json (1.5.3-java)
     multi_json (1.0.3)
     term-ansicolor (1.0.6)
